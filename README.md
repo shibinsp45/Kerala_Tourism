@@ -1,6 +1,6 @@
 # 🌴 KeralaTourism 
 ## Kerala Tourism Website designed for NesT
-[KeralaTourism](https://github.com/shibinsp45/Kerala_Tourism)
+Website link: [KeralaTourism](https://shibinsp45.github.io/Kerala_Tourism/)
 
 
 Welcome to the Kerala Tourism Website - District Explorer! This website aims to provide visitors with comprehensive information about the beautiful state of Kerala, India. It highlights the unique features, attractions, and cultural heritage of each district in Kerala, allowing users to explore and plan their dream vacation in this mesmerizing destination.
